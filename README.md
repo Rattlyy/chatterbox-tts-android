@@ -1,5 +1,5 @@
 # Chatterbox TTS Android
-deploy
+deploy...
 
 On-device multilingual text-to-speech using [Chatterbox](https://github.com/resemble-ai/chatterbox) with ExecuTorch.
 
